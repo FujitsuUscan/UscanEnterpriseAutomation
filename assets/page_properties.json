@@ -1,0 +1,19 @@
+{
+		 "common" : 
+		 {
+		 	"pageName" : "common",
+		 	"mainUrl" : "https://uscanenterprisedemo.azurewebsites.net"
+		 },
+		 "signin" :
+		 {
+		 	"pageName" : "Sign in",
+		 	"txtUserName" : "input#email",
+		 	"txtPassword" : "input#password",
+			"btnLogin" : "span.MuiButton-label"
+		 },
+		 "overview" :
+		 {
+		 	"pageName" : "over view",
+			"imgUserAccount" : "svg.MuiSvgIcon-root.MuiSvgIcon-fontSizeInherit"
+		 }
+}
