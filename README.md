@@ -1,8 +1,8 @@
 # Set up automation environment
 
-##1. Install java 8
+## 1. Install java 8
 
-* Download java from internet, for example - https://www.java.com/en/download/
+* Download java from Internet, for example - https://www.java.com/en/download/
 
 * Double click install java on windows
 
@@ -16,15 +16,15 @@
 
 * Test - Open a command prompt, type: java –version/echo %JAVA_HOME%
 
-##2. Download Automation build from GitHub
+## 2. Download Automation build from GitHub
 
-* Go to Git hub  and open https://github.com/FujitsuUscan/UscanEnterpriseAutomation
+* Go to github  and open https://github.com/FujitsuUscan/UscanEnterpriseAutomation
 
 * Press “Code” button and copy https://github.com/FujitsuUscan/UscanEnterpriseAutomation.git
 
 * Go to your local machine and create a new folder name which you like and from there open command line: type : “git clone https://github.com/FujitsuUscan/UscanEnterpriseAutomation.git”
 
-##3. Download Eclipse latest version from - https://www.eclipse.org/downloads/
+## 3. Download Eclipse latest version from - https://www.eclipse.org/downloads/
 
 * Install eclipse on your window
 
